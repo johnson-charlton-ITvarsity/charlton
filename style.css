@@ -1,0 +1,29 @@
+h1{
+    background: rgb(103, 103, 105);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: large;
+    padding: 0.5%;  
+}
+
+table{
+    border-collapse:collapse;
+    border-width: 7px;
+    border-style: solid;
+    border-color: black;
+}
+
+th{
+    font-weight: 800;
+    background-color: black;
+    color: whitesmoke;
+}
+
+td{
+    font-weight: 500;
+    color: rgb(20, 2, 2);
+    padding-bottom: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
